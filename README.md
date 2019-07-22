@@ -5,3 +5,8 @@ _**[Stock](https://git.tukui.org/Simpy/interface/tree/stock):** unchanged clone 
 **[Cold](https://git.tukui.org/Simpy/interface/tree/cold):** made for Resike.  
 **[Glass](https://git.tukui.org/Simpy/interface/tree/glass):** made for myself.  
 **[Gloss](https://git.tukui.org/Simpy/interface/tree/gloss):** made for Merathilis and Nihilistic.  
+
+![](https://git.tukui.org/Simpy/interface/raw/master/clean.jpg)  
+![](https://git.tukui.org/Simpy/interface/raw/master/cold.jpg)  
+![](https://git.tukui.org/Simpy/interface/raw/master/glass.jpg)  
+![](https://git.tukui.org/Simpy/interface/raw/master/gloss.jpg)  
