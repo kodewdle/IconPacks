@@ -2,6 +2,8 @@
 
 _**Last Update:** Oct 12th 2020_  _(**Build:** 9.0.1.36163)_
 
+[![](https://img.shields.io/badge/Donate-Paypal-blue)](https://www.paypal.me/koditaylor)
+
 _**[Stock](https://git.tukui.org/simpy/interface/tree/stock):** (**[Classic](https://git.tukui.org/simpy/interface/tree/stock-classic)**) unchanged clone of Blizzard's Interface Icons._  
 **[Clean](https://git.tukui.org/simpy/interface/tree/clean):** (**[Classic](https://git.tukui.org/simpy/interface/tree/clean-classic):** [zip](https://git.tukui.org/simpy/interface/-/archive/clean-classic/Interface-clean-classic.zip)) self made clone of [Clean Icons - Mechagnome Edition](https://www.wowinterface.com/downloads/info25064-CleanIcons-MechagnomeEdition.html) by @AcidWeb.  
 **[Cold](https://git.tukui.org/simpy/interface/tree/cold):** (**[Classic](https://git.tukui.org/simpy/interface/tree/cold-classic):** [zip](https://git.tukui.org/simpy/interface/-/archive/cold-classic/Interface-cold-classic.zip)) made for @Resike.  
