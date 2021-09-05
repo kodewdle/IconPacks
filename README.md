@@ -1,4 +1,4 @@
-### Simpy's Styled Interface Icons for World of Warcraft
+### [Simpy](https://github.com/kodewdle)'s Styled Interface Icons for [World of Warcraft](https://worldofwarcraft.com)
 
 _**Last Update:** July 1st 2021_  _(**Build:** 9.1.0.39229)_
 
