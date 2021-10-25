@@ -9,7 +9,7 @@ _**Last Update:** July 1st 2021_  _(**Build:** 9.1.0.39229)_
 **[Cold](https://github.com/kodewdle/IconPacks/tree/cold):** (**[Classic](https://github.com/kodewdle/IconPacks/tree/cold-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold-classic.zip)) made for [Resike](https://github.com/Resike).  
 **[Dark](https://github.com/kodewdle/IconPacks/tree/dark):** (**[Classic](https://github.com/kodewdle/IconPacks/tree/dark-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark-classic.zip)) made for those who requested shadowed version.  
 **[Glass](https://github.com/kodewdle/IconPacks/tree/glass):** (**[v2](https://github.com/kodewdle/IconPacks/tree/glass-v2)**) made for myself.  
-**[Gloss](https://github.com/kodewdle/IconPacks/tree/gloss):** (**[v2](https://github.com/kodewdle/IconPacks/tree/gloss-v2)**) made for [Merathilis](https://github.com/Merathilis) and [Nihilistic](https://github.com/nihilisticpandemonium).  
+**[Gloss](https://github.com/kodewdle/IconPacks/tree/gloss):** (**[v2](https://github.com/kodewdle/IconPacks/tree/gloss-v2)**) made for [Merathilis](https://github.com/Merathilis) and [Nihilistzsche](https://github.com/nihilistzsche).  
 
 ---
 
