@@ -24,10 +24,10 @@ _**Retail** 9.1.5.40906 | **Classic** 1.14.0.40618 | **TBC** 2.5.2.40892_
 - **Installation:**
   1) Extract the contents of the archive.  
   2) Navigate to that location and you should see a new `IconPacks-*` folder.
-  3) Move the contents inside of the folder into `World of Warcraft/_retail_/Interface/` (on Classic use `_classic_era_` | on TBC use `_classic_`).
+  3) Move the contents inside of the folder into `World of Warcraft/_retail_/Interface/` *(on Classic use `_classic_era_` | on TBC use `_classic_`).*
 - **How should look after?**
   1) The icons should be inside of `World of Warcraft/_retail_/Interface/ICONS/`.  
-  2) With the expection of the `INV_OrderHall_*.blp` files. Those should be inside of the Interface folder with the `ICONS` folder.
+  2) With the expection of the `INV_OrderHall_*.tga` files. Those should be inside of the Interface folder with the `ICONS` folder.
 - **Known issues:**  Might glitch equipment manager icons. That part of UI doesn't support icon replacements.  
 
 ---
