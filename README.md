@@ -1,6 +1,6 @@
 ### [Simpy](https://github.com/kodewdle)'s Styled Interface Icons for [World of Warcraft](https://worldofwarcraft.com)
 
-_**Last Update:** July 1st 2021_  _(**Build:** 9.1.0.39229)_
+_**Last Update:** November 6th 2021_  _(**Retail** 9.1.5.40906 | **Classic** 1.14.0.40618 | **TBC** 2.5.2.40892)_
 
 [![](https://img.shields.io/badge/Donate-Paypal-blue)](https://www.paypal.me/koditaylor)
 
