@@ -1,6 +1,6 @@
 ### [Simpy](https://github.com/kodewdle)'s Styled Interface Icons for [World of Warcraft](https://worldofwarcraft.com)
 
-_**Last Update:** November 6th 2021_  
+_**Last Update:** March 22nd 2022_  
 
 [![](https://img.shields.io/badge/Donate-Paypal-blue)](https://www.paypal.me/koditaylor)
 
@@ -13,7 +13,7 @@ _**Last Update:** November 6th 2021_
 
 ---
 
-_**Retail** 9.1.5.40906 | **Classic** 1.14.0.40618 | **TBC** 2.5.2.40892_
+_**Retail** 9.2.5.42850 | **Classic** 1.14.3.42770 | **TBC** 2.5.4.42873_
 - **Classic:**
 **[Stock](https://github.com/kodewdle/IconPacks/tree/stock-classic)** | **[Clean](https://github.com/kodewdle/IconPacks/tree/clean-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/clean-classic.zip) | **[Cold](https://github.com/kodewdle/IconPacks/tree/cold-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold-classic.zip) | **[Dark](https://github.com/kodewdle/IconPacks/tree/dark-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark-classic.zip)
 - **TBC:**
