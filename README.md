@@ -1,6 +1,6 @@
 ### [Simpy](https://github.com/kodewdle)'s Styled Interface Icons for [World of Warcraft](https://worldofwarcraft.com)
 
-_**Last Update:** March 22nd 2022_  
+_**Last Update:** September 6th 2022_  
 
 [![](https://img.shields.io/badge/Donate-Paypal-blue)](https://www.paypal.me/koditaylor)
 
@@ -13,11 +13,13 @@ _**Last Update:** March 22nd 2022_
 
 ---
 
-_**Retail** 9.2.5.42850 | **Classic** 1.14.3.42770 | **TBC** 2.5.4.42873_
+_**Retail** 9.2.5.42850 | **Classic** 1.14.3.42770 | **TBC** 2.5.4.42873 | **Wrath** 3.4.0.45435_
 - **Classic:**
 **[Stock](https://github.com/kodewdle/IconPacks/tree/stock-classic)** | **[Clean](https://github.com/kodewdle/IconPacks/tree/clean-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/clean-classic.zip) | **[Cold](https://github.com/kodewdle/IconPacks/tree/cold-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold-classic.zip) | **[Dark](https://github.com/kodewdle/IconPacks/tree/dark-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark-classic.zip)
 - **TBC:**
 **[Stock](https://github.com/kodewdle/IconPacks/tree/stock-tbc)** | **[Clean](https://github.com/kodewdle/IconPacks/tree/clean-tbc):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/clean-tbc.zip) | **[Cold](https://github.com/kodewdle/IconPacks/tree/cold-tbc):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold-tbc.zip) | **[Dark](https://github.com/kodewdle/IconPacks/tree/dark-tbc):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark-tbc.zip)
+- **Wrath:**
+**[Stock](https://github.com/kodewdle/IconPacks/tree/stock-wrath)** | **[Clean](https://github.com/kodewdle/IconPacks/tree/clean-wrath):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/clean-wrath.zip) | **[Cold](https://github.com/kodewdle/IconPacks/tree/cold-wrath):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold-wrath.zip) | **[Dark](https://github.com/kodewdle/IconPacks/tree/dark-wrath):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark-wrath.zip)
 ---
 
 - **Download:**  Click on the image of the Icon Pack you want.  
