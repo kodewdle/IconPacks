@@ -13,7 +13,7 @@ _**Last Update:** September 6th 2022_
 
 ---
 
-_**Retail** 9.2.5.42850 | **Classic** 1.14.3.42770 | **TBC** 2.5.4.42873 | **Wrath** 3.4.0.45435_
+_**Retail** 9.2.7.45114 | **Classic** 1.14.3.42770 | **TBC** 2.5.4.42873 | **Wrath** 3.4.0.45435_
 - **Classic:**
 **[Stock](https://github.com/kodewdle/IconPacks/tree/stock-classic)** | **[Clean](https://github.com/kodewdle/IconPacks/tree/clean-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/clean-classic.zip) | **[Cold](https://github.com/kodewdle/IconPacks/tree/cold-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold-classic.zip) | **[Dark](https://github.com/kodewdle/IconPacks/tree/dark-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark-classic.zip)
 - **TBC:**
