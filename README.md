@@ -2,7 +2,7 @@
 
 _**Last Update:** April 20th 2023_  
 
-[![](https://img.shields.io/badge/Donate-Paypal-blue)](https://www.paypal.me/koditaylor)
+[![](https://img.shields.io/badge/Support-❤️-FF96D7?style=flat-square&logo=paypal)](https://paypal.me/koditaylor)
 
 **[Stock](https://github.com/kodewdle/IconPacks/tree/stock):** unchanged clone of Blizzard's Interface Icons.  
 **[Clean](https://github.com/kodewdle/IconPacks/tree/clean):** self made clone of [Clean Icons - Mechagnome Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition) by [AcidWeb](https://github.com/AcidWeb).  
