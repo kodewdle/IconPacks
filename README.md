@@ -15,10 +15,10 @@ _**Last Update:** August 4th 2023_
 ---
 
 **Retail** 10.1.7.50730 - **Classic** 1.14.3.42770 - **TBC** 2.5.4.42873 - **Wrath** 3.4.0.45435
-### Classic:
- - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-classic.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-classic.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-classic.zip)
-### **Wrath:**
- - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-wrath.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-wrath.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-wrath.zip)
+
+**Classic** - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-classic.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-classic.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-classic.zip)
+
+**Wrath** - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-wrath.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-wrath.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-wrath.zip)
 
 ---
 
