@@ -3,23 +3,23 @@
 _**Last Update:** August 4th 2023_  
 
 [![](https://img.shields.io/badge/Support-❤️-FF96D7?style=flat-square&logo=paypal)](https://paypal.me/koditaylor)
+[![](https://img.shields.io/github/downloads/kodewdle/IconPacks/total?style=flat-square&color=1784d1&label=Total%20Downloads)](https://github.com/kodewdle/IconPacks/releases)
+[![](https://img.shields.io/github/downloads/kodewdle/IconPacks/latest/total?style=flat-square&color=1784d1&label=Downloads)](https://github.com/kodewdle/IconPacks/releases/latest)
 
-**[Stock](https://github.com/kodewdle/IconPacks/tree/stock):** unchanged clone of Blizzard's Interface Icons.  
-**[Clean](https://github.com/kodewdle/IconPacks/tree/clean):** self made clone of [Clean Icons - Mechagnome Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition) by [AcidWeb](https://github.com/AcidWeb).  
-**[Cold](https://github.com/kodewdle/IconPacks/tree/cold):** made for [Resike](https://github.com/Resike).  
-**[Dark](https://github.com/kodewdle/IconPacks/tree/dark):** made for those who requested shadowed version.  
-**[Glass](https://github.com/kodewdle/IconPacks/tree/glass)** (**[v2](https://github.com/kodewdle/IconPacks/tree/glass-v2)**): made for myself.  
-**[Gloss](https://github.com/kodewdle/IconPacks/tree/gloss)** (**[v2](https://github.com/kodewdle/IconPacks/tree/gloss-v2)**): made for [Merathilis](https://github.com/Merathilis) and [Nihilistzsche](https://github.com/nihilistzsche).  
+**Clean:** self made clone of [Clean Icons - Mechagnome Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition) by [AcidWeb](https://github.com/AcidWeb).  
+**Cold:** made for [Resike](https://github.com/Resike).  
+**Dark:** made for those who requested shadowed version.  
+**Glass:** made for myself.  
+**Gloss:** made for [Merathilis](https://github.com/Merathilis) and [Nihilistzsche](https://github.com/nihilistzsche).  
 
 ---
 
-_**Retail** 10.1.7.50730 | **Classic** 1.14.3.42770 | **TBC** 2.5.4.42873 | **Wrath** 3.4.0.45435_
-- **Classic:**
-**[Stock](https://github.com/kodewdle/IconPacks/tree/stock-classic)** | **[Clean](https://github.com/kodewdle/IconPacks/tree/clean-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/clean-classic.zip) | **[Cold](https://github.com/kodewdle/IconPacks/tree/cold-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold-classic.zip) | **[Dark](https://github.com/kodewdle/IconPacks/tree/dark-classic):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark-classic.zip)
-- **TBC:**
-**[Stock](https://github.com/kodewdle/IconPacks/tree/stock-tbc)** | **[Clean](https://github.com/kodewdle/IconPacks/tree/clean-tbc):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/clean-tbc.zip) | **[Cold](https://github.com/kodewdle/IconPacks/tree/cold-tbc):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold-tbc.zip) | **[Dark](https://github.com/kodewdle/IconPacks/tree/dark-tbc):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark-tbc.zip)
-- **Wrath:**
-**[Stock](https://github.com/kodewdle/IconPacks/tree/stock-wrath)** | **[Clean](https://github.com/kodewdle/IconPacks/tree/clean-wrath):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/clean-wrath.zip) | **[Cold](https://github.com/kodewdle/IconPacks/tree/cold-wrath):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold-wrath.zip) | **[Dark](https://github.com/kodewdle/IconPacks/tree/dark-wrath):** [zip](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark-wrath.zip)
+**Retail** 10.1.7.50730 - **Classic** 1.14.3.42770 - **TBC** 2.5.4.42873 - **Wrath** 3.4.0.45435
+### Classic:
+ - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-classic.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-classic.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-classic.zip)
+### **Wrath:**
+ - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-wrath.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-wrath.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-wrath.zip)
+
 ---
 
 - **Download:**  Click on the image of the Icon Pack you want.  
@@ -34,10 +34,10 @@ _**Retail** 10.1.7.50730 | **Classic** 1.14.3.42770 | **TBC** 2.5.4.42873 | **Wr
 
 ---
 
-[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/clean.jpg)](https://github.com/kodewdle/IconPacks/archive/refs/heads/clean.zip "Click to Download: Clean")  
-[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/cold.jpg)](https://github.com/kodewdle/IconPacks/archive/refs/heads/cold.zip "Click to Download: Cold")  
-[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/dark.jpg)](https://github.com/kodewdle/IconPacks/archive/refs/heads/dark.zip "Click to Download: Dark")  
-[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/glass.jpg)](https://github.com/kodewdle/IconPacks/archive/refs/heads/glass.zip "Click to Download: Glass Version 1")  
-[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/glass_v2.jpg)](https://github.com/kodewdle/IconPacks/archive/refs/heads/glass-v2.zip "Click to Download: Glass Version 2")  
-[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/gloss.jpg)](https://github.com/kodewdle/IconPacks/archive/refs/heads/gloss.zip "Click to Download: Gloss Version 1")  
-[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/gloss_v2.jpg)](https://github.com/kodewdle/IconPacks/archive/refs/heads/gloss-v2.zip "Click to Download: Gloss Version 2")  
+[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/clean.jpg)](https://github.com/kodewdle/IconPacks/releases/latest/download/clean.zip "Click to Download: Clean")  
+[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/cold.jpg)](https://github.com/kodewdle/IconPacks/releases/latest/download/cold.zip "Click to Download: Cold")  
+[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/dark.jpg)](https://github.com/kodewdle/IconPacks/releases/latest/download/dark.zip "Click to Download: Dark")  
+[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/glass.jpg)](https://github.com/kodewdle/IconPacks/releases/latest/download/glass.zip "Click to Download: Glass Version 1")  
+[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/glass_v2.jpg)](https://github.com/kodewdle/IconPacks/releases/latest/download/glass-v2.zip "Click to Download: Glass Version 2")  
+[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/gloss.jpg)](https://github.com/kodewdle/IconPacks/releases/latest/download/gloss.zip "Click to Download: Gloss Version 1")  
+[![](https://raw.githubusercontent.com/kodewdle/IconPacks/main/previews/gloss_v2.jpg)](https://github.com/kodewdle/IconPacks/releases/latest/download/gloss-v2.zip "Click to Download: Gloss Version 2")  
