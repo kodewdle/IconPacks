@@ -1,6 +1,6 @@
 ### [Simpy](https://github.com/kodewdle)'s Styled Interface Icons for [World of Warcraft](https://worldofwarcraft.com)
 
-_**Last Update:** August 4th 2023_  
+_**Last Update:** April 24th 2024_  
 
 [![](https://img.shields.io/badge/Support-❤️-FF96D7?style=flat-square&logo=paypal)](https://paypal.me/koditaylor)
 [![](https://img.shields.io/github/downloads/kodewdle/IconPacks/total?style=flat-square&color=1784d1&label=Total%20Downloads)](https://github.com/kodewdle/IconPacks/releases)
@@ -14,11 +14,11 @@ _**Last Update:** August 4th 2023_
 
 ---
 
-**Retail** 10.1.7.50730 - **Classic** 1.14.3.42770 - **TBC** 2.5.4.42873 - **Wrath** 3.4.0.45435
+**Retail** 11.0.0.54311 - **Classic** 1.15.2.54262 - **Cataclysm** 4.4.0.54339
 
 **Classic** - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-classic.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-classic.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-classic.zip)
 
-**Wrath** - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-wrath.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-wrath.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-wrath.zip)
+**Cataclysm** - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-cata.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-cata.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-cata.zip)
 
 ---
 
@@ -26,7 +26,7 @@ _**Last Update:** August 4th 2023_
 - **Installation:**
   1) Extract the contents of the archive.  
   2) Navigate to that location and you should see a new `IconPacks-*` folder.
-  3) Move the contents inside of the folder into `World of Warcraft/_retail_/Interface/` *(on Classic use `_classic_era_` | on TBC use `_classic_`).*
+  3) Move the contents inside of the folder into `World of Warcraft/_retail_/Interface/` *(on Classic use `_classic_era_` | on Cataclysm use `_classic_`).*
 - **How should it look after?**
   1) The icons should be inside of `World of Warcraft/_retail_/Interface/ICONS/`.  
   2) With the expection of the `INV_OrderHall_*.tga` files. Those should be inside of the Interface folder with the `ICONS` folder.
