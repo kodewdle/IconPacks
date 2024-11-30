@@ -1,6 +1,6 @@
 ### [Simpy](https://github.com/kodewdle)'s Styled Interface Icons for [World of Warcraft](https://worldofwarcraft.com)
 
-_**Last Update:** April 24th 2024_  
+_**Last Update:** November 30th 2024_  
 
 [![](https://img.shields.io/badge/Support-❤️-FF96D7?style=flat-square&logo=paypal)](https://paypal.me/koditaylor)
 [![](https://img.shields.io/github/downloads/kodewdle/IconPacks/total?style=flat-square&color=1784d1&label=Total%20Downloads)](https://github.com/kodewdle/IconPacks/releases)
@@ -14,7 +14,7 @@ _**Last Update:** April 24th 2024_
 
 ---
 
-**Retail** 11.0.0.54311 - **Classic** 1.15.2.54262 - **Cataclysm** 4.4.0.54339
+**Retail** 11.0.5.57689 - **PTR** 11.0.7.57409 - **Classic** 1.15.5.57807 - **Cataclysm** 4.4.1.57564
 
 **Classic** - **Clean:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/clean-classic.zip) **Cold:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/cold-classic.zip) **Dark:** [zip](https://github.com/kodewdle/IconPacks/releases/latest/download/dark-classic.zip)
 
