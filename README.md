@@ -3,8 +3,7 @@
 _**Last Update:** November 30th 2024_  
 
 [![](https://img.shields.io/badge/Support-❤️-FF96D7?style=flat-square&logo=paypal)](https://paypal.me/koditaylor)
-[![](https://img.shields.io/github/downloads/kodewdle/IconPacks/total?style=flat-square&color=1784d1&label=Total%20Downloads)](https://github.com/kodewdle/IconPacks/releases)
-[![](https://img.shields.io/github/downloads/kodewdle/IconPacks/latest/total?style=flat-square&color=1784d1&label=Downloads)](https://github.com/kodewdle/IconPacks/releases/latest)
+[![](https://img.shields.io/github/downloads/kodewdle/IconPacks/total?style=flat-square&color=1784d1&label=Downloads)](https://github.com/kodewdle/IconPacks/releases)
 
 **Clean:** self made clone of [Clean Icons - Mechagnome Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition) by [AcidWeb](https://github.com/AcidWeb).  
 **Cold:** made for [Resike](https://github.com/Resike).  
